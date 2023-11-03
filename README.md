@@ -1,6 +1,14 @@
 # Mouse-Tracker
 This repository hosts a simple yet fun project that demonstrates how to create an HTML element that follows the user's cursor. The page was developed using web technologies, including HTML, JavaScript, and CSS. The cursor-following element serves as a great illustration of how you can dynamically interact with web elements, adding an interactive touch to websites and applications.
 
+<div align="center">
+  <img src="https://github.com/gabrielfc98/Mouse-Tracker/assets/122616019/9f31ee59-eb1e-4098-b4cc-2342d43ea3ec" alt="MouseTracker" width="500" height="300">
+</div>
+
+
+
+
+
 Features and Highlights:
 
 • Smooth implementation of the HTML element that follows the cursor.
